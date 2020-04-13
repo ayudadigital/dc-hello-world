@@ -1,5 +1,22 @@
 # Changelog
 
+## v1.0.1 (2020-04-13)
+
+### Changes
+
+#### Build
+
+* Update Auto Release Log adding v1.0.1 info with JPL ([1180971](https://github.com/tpbtools/dc-hello-world/commit/1180971))
+
+#### Docs
+
+* Fix link to new issue ([1c51626](https://github.com/tpbtools/dc-hello-world/commit/1c51626))
+* Generate v1.0.0 changelog with JPL ([5c3c116](https://github.com/tpbtools/dc-hello-world/commit/5c3c116))
+
+### Authors
+
+* Pedro Amador
+
 ## v1.0.0 (2020-04-13)
 
 ### Changes
