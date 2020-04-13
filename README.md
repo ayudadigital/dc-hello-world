@@ -9,7 +9,7 @@ Its a part of the Docker Command series
 Execute the following within your repository folder:
 
 - Using Bash: `./entrypoint.sh`
-- Using Docker: `docker run --rm kairops/dc-hello-world`
+- Using Docker: `docker run --rm tpbtools/dc-hello-world`
 - Using docker-command-launcher: `kd hello-world`
 
 ## Considerations
