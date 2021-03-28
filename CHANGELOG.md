@@ -1,5 +1,22 @@
 # Changelog
 
+## v2.0.1 (2021-03-28)
+
+### Changes
+
+#### Build
+
+* Update Auto Release Log adding v2.0.1 info with JPL ([56faa82](https://github.com/ayudadigital/dc-hello-world/commit/56faa82))
+* Use jpl v6.2.0 ([c6e0637](https://github.com/ayudadigital/dc-hello-world/commit/c6e0637))
+
+#### Docs
+
+* Generate v2.0.0 changelog with JPL ([dcd1f98](https://github.com/ayudadigital/dc-hello-world/commit/dcd1f98))
+
+### Authors
+
+* Pedro Amador
+
 ## v2.0.0 (2020-04-24)
 
 ### Changes
